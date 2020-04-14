@@ -1,5 +1,5 @@
 # Dad-Bod
-Wrangle and clean MyFitnessPal exported data then analyze it using Prophet by Facebook.
+Wrangle and clean MyFitnessPal exported data then analyze it using Prophet by Facebook to predict your future weight.  Or in my case, to predict when you will get an official Dad Bod.
 
 # Dependencies
 * Python 3
